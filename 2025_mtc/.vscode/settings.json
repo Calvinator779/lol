@@ -1,0 +1,12 @@
+{
+"MATLAB.installPath": "C:\\Program Files\\MATLAB\\R2023b",
+"MATLAB.matlabConnectionTiming":"onStart",
+    "pasteImage.path": "img",
+    "pasteImage.basePath": "${currentFileDir}",
+    "pasteImage.insertPattern": "![${imageFileName}](${imageFilePath})",
+    // "custom-md-pdf.styles": ["${currentFileDir}\\templates\\university-style.css"],
+    // "custom-md-pdf.printBackground": true,
+    // "custom-md-pdf.headerTemplate": "",
+    // "custom-md-pdf.footerTemplate": "",
+    // "custom-md-pdf.displayHeaderFooter": false,
+}
